@@ -1,0 +1,3 @@
+<template>
+    AppFooter
+</template>

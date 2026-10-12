@@ -1,0 +1,3 @@
+<template>
+    CatalogueView
+</template>
